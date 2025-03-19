@@ -108,6 +108,10 @@ footer {
     margin-bottom: 3vh;
 }
 
+footer ul li {
+  margin-top: 5px;
+}
+
 footer ul li a{
     text-decoration: none;
 }
@@ -137,6 +141,11 @@ body.dark h1, body.dark .support a, body.dark footer ul li a{color: #fff;}
 .checkbox {
   opacity: 0;
   position: absolute;
+}
+
+.container-checkbox {
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 .checkbox-label {
