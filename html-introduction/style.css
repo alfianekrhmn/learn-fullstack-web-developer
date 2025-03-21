@@ -36,6 +36,12 @@ p {
     background-color: #333B9C;
 }
 
+#switchMode {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
 footer {
     padding: 20px;
     background-color: #4D55CC;
